@@ -1,0 +1,27 @@
+{
+  "name": "PixelArt",
+  "version": "0.0.1",
+  "description": "Playground for Learning Web Development",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "3.9.1",
+    "gulp-sass": "4.0.2",
+    "gulp-autoprefixer": "5.0.0",
+    "gulp-htmlhint": "2.2.1",
+    "gulp-sass-lint": "1.3.4",
+    "gulp-sourcemaps": "2.6.4",
+    "gulp-plumber": "1.2.0",
+    "gulp-task-loader": "1.4.4",
+    "gulp-util": "3.0.8",
+    "run-sequence": "2.2.1"
+  },
+  "scripts": {
+    "start": "gulp develop",
+    "server": "live-server --port=8881"
+  },
+  "author": "Tomas Safas",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "*"
+  }
+}
