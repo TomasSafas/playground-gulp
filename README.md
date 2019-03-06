@@ -1,4 +1,4 @@
-# Playground framework #
+# Playground for Learning Web Development #
 
 To install run:
 
